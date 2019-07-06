@@ -2,7 +2,7 @@
   "Descriptor": {
     "UId": "22bed8fd-e87b-486a-b45c-1c3710146ce0",
     "Name": "Custom",
-    "ModifiedOnUtc": "\/Date(1562157697000)\/",
+    "ModifiedOnUtc": "\/Date(1562243998000)\/",
     "Maintainer": "Customer",
     "Description": "Custom Package",
     "DependsOn": [
@@ -534,6 +534,11 @@
         "UId": "dc36f898-47d7-4597-865d-0f1bcab7bf9c",
         "PackageVersion": "7.8.0",
         "Name": "SocialNetworkIntegration"
+      },
+      {
+        "UId": "e24226f9-c177-458f-af34-9338e2699983",
+        "PackageVersion": "7.8.0",
+        "Name": "bpmcligate"
       },
       {
         "UId": "e38d2be4-2dbf-4145-843d-9f7d7c1cbc7a",
